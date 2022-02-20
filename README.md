@@ -1,4 +1,4 @@
-
+##idea
 We came across a case study of COVID-19 which highlighted the problems faced by the economic sector during COVID pandemic.
 
 ## What it does
